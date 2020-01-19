@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-8u231-docs-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk-8u231-docs-all.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
