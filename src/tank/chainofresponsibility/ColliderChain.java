@@ -9,7 +9,7 @@ import java.util.List;
 public class ColliderChain implements Collider{
     private List<Collider> colliders;
 
-    public ColliderChain() {
+    public ColliderChain() { 
         initColliders();
     }
 
