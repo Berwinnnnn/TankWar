@@ -1,0 +1,11 @@
+#配置文件
+#key-value pair
+
+#设置敌人坦克数量
+initTankCount=5
+
+#tank fire strategy
+#  DefaultFireStrategy  /  FourDirFireStrategy
+tankFireStrategy=FourDirFireStrategy
+
+colliders=BulletTankCollider,BulletWallCollider,TankWallCollider,TankTankCollider
